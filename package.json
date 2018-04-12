@@ -1,0 +1,12 @@
+{
+  "name": "eslint-plugin-file-header",
+  "description": "Rule to check if file contains specified comment",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:Sekhmet/eslint-plugin-file-header.git",
+  "author": "Wiktor Tkaczyński <wiktor.tkaczynski@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
